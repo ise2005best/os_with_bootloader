@@ -1,0 +1,10 @@
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/libthiserror-f7cfc17ea302d628.rmeta: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/libthiserror-f7cfc17ea302d628.rlib: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/thiserror-f7cfc17ea302d628.d: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs
+
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/lib.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/aserror.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/display.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.56/src/provide.rs:

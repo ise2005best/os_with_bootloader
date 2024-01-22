@@ -1,0 +1,10 @@
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/libfutures_lite-dae9f7a65932740d.rmeta: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs
+
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/libfutures_lite-dae9f7a65932740d.rlib: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs
+
+/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/deps/futures_lite-dae9f7a65932740d.d: /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs /Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs
+
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/lib.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/future.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/prelude.rs:
+/Users/iseoluwaariyibi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.2.0/src/stream.rs:

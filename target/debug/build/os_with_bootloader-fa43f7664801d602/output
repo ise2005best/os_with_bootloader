@@ -1,0 +1,3 @@
+std::env::var_os('OUT_DIR') = "/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/build/os_with_bootloader-fa43f7664801d602/out"
+cargo:rustc-env=UEFI_PATH=/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/build/os_with_bootloader-fa43f7664801d602/out/uefi.img
+cargo:rustc-env=BIOS_PATH=/Users/iseoluwaariyibi/Desktop/rust-practice/os_with_bootloader/target/debug/build/os_with_bootloader-fa43f7664801d602/out/bios.img
